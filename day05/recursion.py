@@ -1,7 +1,5 @@
 # recursion is the function that call itself
-
 # always consider the result
-
 # looping soluction
 
 def find_factorial_by_looping(n):
@@ -25,5 +23,9 @@ def find_factorial_recursive(n):
     
     
 print(find_factorial_recursive(5))
+
+# harder to follow
+# difficult to debug
+# hard to maintain memory
 
 
