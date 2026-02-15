@@ -14,4 +14,6 @@ def isPalindrome(str):
     return True
 
 
+
+
 print(isPalindrome(str))
